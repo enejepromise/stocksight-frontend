@@ -5,15 +5,15 @@
 StockSight is a modern web application designed to solve one of the biggest operational problems for small shop owners: uncertain stock levels, inaccurate sales records, and trust issues with sales staff.
 
 StockSight provides:
-# Real-time inventory updates
+##Real-time inventory updates
 
-# Automated sales logging
+##Automated sales logging
 
-# End-of-day reconciliation
+##End-of-day reconciliation
 
-# Role-based dashboards
+##Role-based dashboards
 
-# Alerts for low stock and discrepancies
+##Alerts for low stock and discrepancies
 
 The goal: give shop owners absolute visibility and control without being on-site.
 ## Problem Statement
